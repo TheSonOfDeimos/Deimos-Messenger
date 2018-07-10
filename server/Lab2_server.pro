@@ -20,7 +20,8 @@ SOURCES += main.cpp\
 HEADERS  += \
     myserver.h \
     dialog.h \
-    myclient.h
+    myclient.h \
+    ../../sslTest/sslTest/DataOperationSSL.hpp
 
 FORMS    += dialog.ui
 

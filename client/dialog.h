@@ -4,7 +4,7 @@
 #include <QDialog>
 #include <QTcpSocket>
 #include <QHostAddress>
-#include "/Users/levkargalov/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/Programming/C++/NetworkingTest/QSocket/Lab2_server/myclient.h"
+#include "/Users/levkargalov/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/Programming/C++/NetworkingTest/DeimosMessenger/server/myclient.h"
 #include <QMessageBox>
 class MyClient;
 
